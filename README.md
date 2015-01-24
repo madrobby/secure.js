@@ -6,4 +6,4 @@ Just include…
 <script src="secure.js"></script>
 ```
 
-…and reap the benefits really safe and secure JavaScript!
+…and reap the benefits of really safe and secure JavaScript!
